@@ -31,5 +31,9 @@ packer.startup(function()
     use 'L3MON4D3/LuaSnip'
     use 'saadparwaiz1/cmp_luasnip'
 
+    use 'nvim-lua/plenary.nvim'
+
+    use 'nvim-telescope/telescope.nvim'
+
     use 'lunarvim/colorschemes'
 end)
